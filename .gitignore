@@ -2,12 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
 ### Django ###
-.gitignore
+.
 *.log
 *.pot
 *.pyc
 __pycache__/
-mysite/settings.py
+/mysite/settings.py
 db.sqlite3
 db.sqlite3-journal
 media
